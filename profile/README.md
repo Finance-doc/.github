@@ -205,7 +205,7 @@
 ### 📚 핵심 기능(3) - 금융 리터러시 카드 뉴스
 📍 성장단계 :: 공공데이터 기반의 금융지식 확산, 재미와 학습을 결합한 금융 리터러시 교육제공
 
-<img width="668" height="380" alt="image" src="https://github.com/user-attachments/assets/8cd1b368-7b79-475e-af9c-b1f7c4dd8b82" />
+<img alt="image" src="https://github.com/user-attachments/assets/8cd1b368-7b79-475e-af9c-b1f7c4dd8b82" />
 
 ✔️ 교육용 데이터 출처
 - 한국은행(BOK) 경제용어 사전 : https://www.bok.or.kr/portal/ecEdu/ecWordDicary/search.do?menuNo=200688
